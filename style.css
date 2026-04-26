@@ -20,3 +20,11 @@ html,body{
     height: 100%;
     width: 100%;
 }
+
+div{
+    color:royalblue;
+    background-color: black;
+    height: 500px;
+    width: 300px;
+
+}
