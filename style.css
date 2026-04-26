@@ -3,13 +3,11 @@
  margin: 0%;
  padding: 0%;
 }
+
 h1{
-    color:rgb(162, 243, 161);
-    background-color: black;
-    font-size: 100px;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-weight: 10000;
-    text-align: center;
+    color: blanchedalmond;
+    background-color: blue;
+
 }
 
 h2{
@@ -27,4 +25,18 @@ div{
     height: 500px;
     width: 300px;
 
+}
+
+#a{
+    background-color: aqua;
+}
+.a{
+    color: brown;
+    background-color: blanchedalmond;
+}
+
+#box{
+    height: 200px;
+    width: 200px;
+    background-color: royalblue;
 }
