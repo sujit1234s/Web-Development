@@ -1,0 +1,19 @@
+*
+{
+ margin: 0%;
+ padding: 0%;
+}
+h1{
+    color:rgb(162, 243, 161);
+    background-color: black;
+
+}
+
+h2{
+    color: green;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+}
