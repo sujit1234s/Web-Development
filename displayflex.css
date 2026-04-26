@@ -1,0 +1,22 @@
+body{
+    background-color: bisque;
+}
+#parent{
+    height: 100%;
+    width: 100%;
+    background-color: aquamarine;
+    display: flex;
+    align-items:self-end;
+    justify-content: space-between;
+}
+
+.child{
+    height: 200px;
+    width: 200px;
+    background-color: blueviolet;
+    border: 2px solid #000;
+    background-image: url(media.mp4);
+    background-size: cover;
+    background-position: center;
+}
+
