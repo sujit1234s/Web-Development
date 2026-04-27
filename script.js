@@ -10,5 +10,23 @@ var b=4
 console.log(a%b)
 
 alert("Data Leak")
-confirm("Are you an Adult ?")
+
+var ans = confirm("Are you an Adult ?")
+console.log(ans)
+
+var a = confirm("are you sure ?")
+console.log(a)
+
+var a =prompt("Enter your Name")
+console.log(a)
+
+alert("Message")
+confirm("confirm hai naa Bhai ?")
+
+var user = prompt("enter your name")
+console.log("User name is",user)
+
+
+ 
+
 
