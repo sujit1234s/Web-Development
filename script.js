@@ -26,6 +26,45 @@ confirm("confirm hai naa Bhai ?")
 var user = prompt("enter your name")
 console.log("User name is",user)
 
+//JS Datatypes
+
+//-Premetive Datatypes (Single Data)
+   //- Number: 1,2,3,6.66,3.14
+
+   var a=10
+   console.log(a)
+
+   //-string:'a',"a","sujit",'sujit'
+
+   var a='sujit'
+   console.log(a)
+
+   //-boolean: true , false
+   //-underfined
+   //-null
+   //-symbol
+   //-NAN:Not a Number
+
+   var a=10
+   var b='sujit'
+   console.log(a*b)
+
+   //+ : Addition/Concatination
+   //- : Sub
+   //* : Mult
+   /// : div
+
+   //Condition 
+ var a = 1
+   if(10>5){
+        console.log("correct")
+   }else{
+    console.log("Not correct")
+   }
+
+
+
+
 
  
 
