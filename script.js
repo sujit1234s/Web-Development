@@ -27,3 +27,23 @@ if(a===b){
 else{
     console.log("Galat hai")
 }
+
+function hey()
+{
+    console.log("Good Morning")
+}
+hey()
+
+function sing()
+{
+    console.log("Main hu Giann")
+}
+
+function dance()
+{
+    console.log("Dance krado")
+}
+
+sing()
+dance()
+hey()
